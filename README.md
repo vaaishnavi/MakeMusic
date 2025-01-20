@@ -3,14 +3,6 @@ OutsideHacks 24h Hackathon iOS app
 
 [Project Website](https://dropp.carrd.co)
 
-## Team
-
-- [Alexandru Turcanu](https://github.com/Pondorasti) - iOS Back End Development & User Experiences
-- [Shutaro Aoyama](https://github.com/Shu-pro) - iOS Front End Development
-- [Alex Niehaus](https://github.com/alex00x0?tab=repositories) - Presenter & Business Plan
-- [Gabrielle Chang](https://github.com/gabbiechang) - Website builder
-- [Noah Woodward](https://github.com/woodward4422) - Presenter & Marketing
-
 ## About
 
 An app where music reviews are curated by the opinions of those who matter most: the fans themselves. 
