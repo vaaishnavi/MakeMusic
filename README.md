@@ -16,6 +16,7 @@ and give feedback. Live comments and tags will be displayed, and users can press
 - Alamofire
 - Xcode
 - JSON
+- Ruby
 
 ## Awards
 
