@@ -34,3 +34,6 @@ and give feedback. Live comments and tags will be displayed, and users can press
     <img src="https://github.com/Pondorasti/MakeMusic/blob/master/Screenshots/IMG_2596.PNG" width="400">
     <img src="https://i.imgur.com/WfsGK7i.png">
 </p>
+
+## Test PR
+This is a test pull request to test our personal token for this project.
