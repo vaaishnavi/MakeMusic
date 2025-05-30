@@ -1,4 +1,10 @@
-// Co authored by Vaishnavi and Luna
+//
+//  AppDelegate.swift
+//  MakeMusic
+//
+//  Created by Alexandru Turcanu on 04/08/2018.
+//  Copyright © 2018 Alexandru Turcanu. All rights reserved.
+//
 
 import UIKit
 
